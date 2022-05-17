@@ -29,11 +29,11 @@ def chart1(data):
     st_pyecharts(c)
 
 st.set_page_config(page_title="金融风控模型展示", page_icon="💳", layout="wide")
-img_url=image_to_url('/Users/penneyye/Desktop/Untitled/this.jpeg',width=-3,clamp=False,channels='RGB',output_format='auto',image_id='',allow_emoji=False)
-st.markdown('''
-<style>
-.css-fg4pbf{background-image:url('''+img_url+''');}</style>
-''',unsafe_allow_html=True)
+# img_url=image_to_url('/Users/penneyye/Desktop/Untitled/this.jpeg',width=-3,clamp=False,channels='RGB',output_format='auto',image_id='',allow_emoji=False)
+# st.markdown('''
+# <style>
+# .css-fg4pbf{background-image:url('''+img_url+''');}</style>
+# ''',unsafe_allow_html=True)
 
 sysmenu='''
 <style>
