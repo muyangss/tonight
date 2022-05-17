@@ -1,0 +1,7 @@
+matplotlib
+streamlit
+numpy
+pandas
+streamlit_option_menu
+pyecharts
+streamlit_echarts
